@@ -1,0 +1,10 @@
+{
+  "extensionDescription": {
+    "description": "Extension description",
+    "message": "The world's most questionably reliable financial terminal. Features include: market data that may or may not be real-time, charts that occasionally work, and financial advice that's definitely not financial advice. Warning: May cause existential dread about your portfolio."
+  },
+  "extensionName": {
+    "description": "Extension name",
+    "message": "Doomberg Terminal"
+  }
+}

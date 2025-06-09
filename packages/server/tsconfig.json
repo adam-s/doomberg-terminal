@@ -1,0 +1,32 @@
+{
+  "extends": "@doomberg/tsconfig/base",
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "outDir": "./dist",
+    "baseUrl": ".",
+    "paths": {
+      "@src/*": [
+        "src/*"
+      ],
+      "@shared/*": [
+        "../shared/src/*"
+      ],
+      "vs/*": [
+        "../vs/vs/*"
+      ]
+    },
+    "types": [
+      "vitest/globals"
+    ],
+    "sourceMap": true
+  },
+  "include": [
+    "src",
+    "../vs/vs/**/*",
+    "../shared/src/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

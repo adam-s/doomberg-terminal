@@ -1,0 +1,23 @@
+{
+  "extends": "@doomberg/tsconfig/base",
+  "compilerOptions": {
+    "outDir": "dist",
+    "jsx": "react-jsx",
+    "baseUrl": ".",
+    "paths": {
+      "@injected/*": [
+        "lib/*"
+      ]
+    },
+    "types": [
+      "chrome",
+      "vitest/globals"
+    ],
+    "target": "ESNext"
+  },
+  "include": [
+    "index.ts",
+    "lib",
+    "./global.d.ts"
+  ]
+}
