@@ -50,7 +50,7 @@
     "lint-staged": "^15.2.2",
     "node-pg-migrate": "^7.9.1",
     "pino-pretty": "^11.0.0",
-    "rimraf": "^6.0.0",
+    "rimraf": "^6.0.1",
     "supertest": "^7.0.0",
     "tsup": "^8.0.2",
     "tsx": "^4.7.2",
