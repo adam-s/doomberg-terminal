@@ -8,7 +8,7 @@ The Doomberg Terminal shows what's possible when you use a Chrome Extension side
 
 (Broken data might actually be the best way to stop developers from scraping your site. Anyway... **I'm terrible at trading, so don't take any advice from me and definitely don't use this app to trade.**)
 
-[View full MP4](https://github.com/adam-s/doomberg-terminal/blob/main/docs/movies/overview.mp4)
+![Doomberg Terminal Interface](docs/images/doomberg-terminal-interface.gif)
 
 ## Features
 
