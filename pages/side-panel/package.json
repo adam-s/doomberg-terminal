@@ -56,7 +56,7 @@
     "rehype-raw": "^7.0.0",
     "remark-gfm": "^4.0.1",
     "remark-rehype": "^11.1.2",
-    "xstate": "^5.18.2"
+    "xstate": "^5.20.1"
   },
   "devDependencies": {
     "@doomberg/hmr": "workspace:*",
