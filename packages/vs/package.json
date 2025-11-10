@@ -26,7 +26,7 @@
     "@doomberg/tsconfig": "workspace:*",
     "@types/glob": "^8.1.0",
     "@types/sinon": "^17.0.3",
-    "glob": "^11.0.0",
+    "glob": "^11.0.3",
     "rollup": "^4.18.0",
     "rollup-plugin-copy": "^3.5.0",
     "sinon": "^18.0.0"
